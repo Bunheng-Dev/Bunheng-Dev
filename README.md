@@ -20,7 +20,7 @@
 **Backend:** ThinkPHP, Python (APIs, automation)  
 **Data:** MySQL, MongoDB  
 **Tooling:** Docker, GitHub, Postman, Figma   
-*Occasionally:* Laravel, Kotlin, Vue 3 & NestJs
+*Occasionally:* Laravel, Vue 3 & NestJs
 
 ---
 
