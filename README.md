@@ -1,6 +1,6 @@
 # Hiya! Bunheng here. 👋
 
-**Full-Stack Web & Mobile Developer** building **production-ready apps** — fast UX, clean architecture, and reliable deployments. ⚙️✨  
+**Full-Stack Software Engineering** building **production-ready apps** — fast UX, clean architecture, and reliable deployments. ⚙️✨  
 🌐 Portfolio: https://www.maibunheng.site/  
 📩 Email: maibunheng@gmail.com  
 
